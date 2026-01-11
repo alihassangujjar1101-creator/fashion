@@ -37,14 +37,4 @@ The project focuses on clean design, smooth layout, and a luxury fashion brand f
 - Lookbook
 - Contact
 
----
-
-## 🖼️ Screenshots
-
-_Add screenshots of the website here for better presentation._
-
-```text
-Example:
-![Homepage](screenshots/home.png)
-![Collections](screenshots/collections.png)
 
